@@ -1,3 +1,4 @@
+
 # Dokturr Quizz It
 Welcome to Dokturr Quizz It, the most entertaining way to test your trivia knowledge and tickle your funny bone! Whether you're a general knowledge guru or a goofy question connoisseur, this quiz game has something for everyone <br>
 
@@ -7,3 +8,7 @@ So, put on your thinking cap, grab your sense of humor, and get ready to quiz it
 
 ## Extra Info
     This only works on Windows.
+
+## Update Log
+    Version 1.1.0 :
+    Added ability to Exit the quiz at any point by typing "exit".
